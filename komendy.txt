@@ -1,3 +1,7 @@
+npm exec html-validate yourfile.html
+
+result:
+
 C:\Users\misto\Desktop\Projekty-FS\nauka-gita-2\index.html
   13:1   error  Trailing whitespace  no-trailing-whitespace
   31:42  error  Trailing whitespace  no-trailing-whitespace
